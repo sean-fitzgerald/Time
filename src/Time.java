@@ -16,6 +16,7 @@ public class Time {
 
 		boolean ok = true;
 		// check if hour is appropriate
+		// hello world
 		if ( h < 0 || h > 23){
 			System.out.println("Invalid value of hour: "+h);
 			ok = false;
